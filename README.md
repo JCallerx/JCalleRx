@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JCalleRx/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JCalleRx/azure-network-protocols)
+- <b>SearXNG (Secure Search Engine)</b>
+  - [Build Your Own Secure Search Engine on a Linux Virtual Machine (Azure)](https://github.com/JCallerx/secure-search)
 
 <h2>🤳Connect with me:</h2>
 
