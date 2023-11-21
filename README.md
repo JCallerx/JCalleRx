@@ -6,9 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JCalleRx/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JCalleRx/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JCalleRx/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Entra ID</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JCalleRx/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JCalleRx/azure-network-protocols)
 - <b>SearXNG (Secure Search Engine)</b>
   - [Build Your Own Secure Search Engine on a Linux Virtual Machine (Azure)](https://github.com/JCallerx/secure-search)
 
